@@ -32,7 +32,7 @@ Beside coding, I likes to do gaming.</p>
 
 ## Get in touch
 
-<p><a href="https://www.linkedin.com/in/akshay-rathi-sde/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/akshayrathigithub" target="_blank">
+<p><a href="https://www.linkedin.com/in/akshay-rathi-sde/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/akshayrathigithub" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p><br/>
 
 <!-- trigger backend on profile visit -->
