@@ -4,31 +4,7 @@ Hello, I'm Kunal Sahu</h1>
   I’m a self-taught Software Developer specializing in crafting great web experiences. I love learning new things and have a knack for finding new approaches to solve problems in unique ways, especially if they involve the use of technology. I describe myself as a passionate developer who loves coding, open source, and the web platform.
 </p>
 <p>I have a strong background in Javascript and FrontEnd Development, have worked on a wide range of projects. A quick learner, I am always looking to learn new technologies and improve my skills.
-
-Beside coding, I likes to do gaming.</p>
-
-## Skill Set
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;&nbsp;
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;&nbsp;
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;&nbsp;
-
-### Backend
-
-![ExpressJs](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=f2f2f2)&nbsp;&nbsp;
-![NodeJs](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
-![NestJs](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;&nbsp;
-
-### Others
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/Docker-%2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;
-![NGINX](https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=nginx&logoColor=white)
+.</p>
 
 ## Get in touch
 
