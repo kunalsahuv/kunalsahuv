@@ -8,7 +8,7 @@ Hello, I'm Kunal Sahu</h1>
 
 ## Get in touch
 
-<p><a href="https://www.linkedin.com/in/kunalsahuv/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/kunalsahuv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="kunalsahuv@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p><a href="https://www.linkedin.com/in/kunalsahuv/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/kunalsahuv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kunalsahuv@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p><br/>
 
 <!-- trigger backend on profile visit -->
