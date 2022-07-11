@@ -32,7 +32,7 @@ Beside coding, I likes to do gaming.</p>
 
 ## Get in touch
 
-<p><a href="https://akshayrathi.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://projects.akshayrathi.com/" target="_blank"><img alt="Projects" src="https://img.shields.io/badge/Projects-%F5AE29.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/akshay-rathi-sde/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/akshayrathigithub" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<p><a href="https://www.linkedin.com/in/akshay-rathi-sde/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/akshayrathigithub" target="_blank">
 </p><br/>
 
 <!-- trigger backend on profile visit -->
