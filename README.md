@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px" height="15px">
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px" height="25px">
 Hello, I'm Kunal Sahu</h1>
 <p>Welcome to my GitHub profile!</p><p>
   I’m a self-taught Software Developer specializing in crafting great web experiences. I love learning new things and have a knack for finding new approaches to solve problems in unique ways, especially if they involve the use of technology. I describe myself as a passionate developer who loves coding, open source, and the web platform.
