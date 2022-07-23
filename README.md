@@ -61,8 +61,8 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 <br/>
 
----
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush32&show_icons=true&theme=chartreuse-dark&line_height=27" alt="AnkitDroidGit github stats" />
+<!-- ---
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush32&show_icons=true&theme=chartreuse-dark&line_height=27" alt="AnkitDroidGit github stats" /> -->
 
 <!-- ## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Streak Stats:-
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush32&theme=chartreuse-dark)](https://github.com/Ayush32/github-readme-streak-stats) -->
@@ -76,12 +76,6 @@
 [instagram]: https://www.instagram.com/kunalsahuv/
 [linkedin]: https://www.linkedin.com/in/kunalsahuv/
 [facebook]: https://www.facebook.com/kunalsahuv/
-
-
-
-
-
-
 
 
 
