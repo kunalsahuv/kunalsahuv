@@ -3,7 +3,7 @@
 
 <img alt="GIF" height= 200 src="https://user-images.githubusercontent.com/44522024/95550376-68e7f880-0a26-11eb-8284-3ae06236dba1.gif" />
 
-## I'm a Student and elf-taught Software Developer Web  Developer,!. I love learning new things and have a knack for finding new approaches to solve problems in unique ways, especially if they involve the use of technology
+## <h4>I'm a Student and self-taught Software Developer!. I love learning new things and have a knack for finding new approaches to solve problems in unique ways, especially if they involve the use of technology</h4>
 
 - 🔭 I’m currently working on a [VS Code][website]!
 - 🌱 I’m currently learning everything 🤣
