@@ -3,7 +3,7 @@
 
 <img alt="GIF" height= 200 src="https://user-images.githubusercontent.com/44522024/95550376-68e7f880-0a26-11eb-8284-3ae06236dba1.gif" />
 
-## I'm a Student and Full Stack Web  Developer,!
+## I'm a Student and elf-taught Software Developer Web  Developer,!. I love learning new things and have a knack for finding new approaches to solve problems in unique ways, especially if they involve the use of technology
 
 - 🔭 I’m currently working on a [VS Code][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -12,9 +12,9 @@
 - ⚡ Fun fact: I love to travel to holi places and indian cultural
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/kunalsahuv?style=social)](https://twitter.com/kunalsahuv)
-[![Linkedin: imthepk](https://img.shields.io/badge/-Kunal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalsahuv/)](https://www.linkedin.com/in/kunalsahuv/)
+[![Linkedin: imthepk](https://img.shields.io/badge/-Kunalsahuv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalsahuv/)](https://www.linkedin.com/in/kunalsahuv/)
 [![GitHub iampawan](https://img.shields.io/github/followers/Kunalsahuv?style=social)](https://github.com/kunalsahuv)
-[![website](https://img.shields.io/badge/Portfolio-kunalsa-2648ff?style=flat-square&logo=google-chrome)](https://kunalsahuv.github.io/)
+[![website](https://img.shields.io/badge/Portfolio-kunalsahuv-2648ff?style=flat-square&logo=google-chrome)](https://kunalsahuv.github.io/)
 
 ### Connect with me:
 
